@@ -1,6 +1,9 @@
 # fractol
 Fractal viewer
 
+ex. Julia fractal draws towards mouse moving, edging the value of the starting complex number
+![julia](https://i.imgur.com/kppQ03O.png)
+
 try ./fractol mandelbrot
     ./fractol julia
     ./fractol tricorn
